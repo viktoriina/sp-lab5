@@ -1,0 +1,5 @@
+.idea/
+calculator 
+lex.yy.c 
+calculator.tab.c 
+calculator.tab.h
